@@ -7,7 +7,7 @@
   * Analyzed basic attack vectors and how organizations approach risk mitigation.
  
 ## 2. Computer Fundamentals
-* **Status:** Completed ( 14 September 2026)
+* **Status:** Completed (14 September 2026)
 * **Overview:** Covered the underlying architecture of modern computers and hardware components essential for understanding how operating systems execute tasks.
 * **Key Takeaways:**
   * Reviewed the main hardware components, including the role of the CPU, RAM, and storage systems in data processing.
