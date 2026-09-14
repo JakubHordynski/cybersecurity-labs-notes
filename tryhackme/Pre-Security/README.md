@@ -1,4 +1,4 @@
-## 1. Introduction to Cybersecurity
+## 1. Introduction to Cyber security
 * **Status:** Completed (September 2026)
 * **Overview:** Explored the foundational concepts of information security, the differences between offensive and defensive security, and real-world threat landscapes.
 * **Key Takeaways:**
