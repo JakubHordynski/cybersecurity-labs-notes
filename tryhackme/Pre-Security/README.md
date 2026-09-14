@@ -12,4 +12,4 @@
 * **Key Takeaways:**
   * Reviewed the main hardware components, including the role of the CPU, RAM, and storage systems in data processing.
   * Examined the basic structure of operating systems and how software interacts with system hardware.
-  *Grasped preliminary hardware-level concepts that underpin system and endpoint security.
+  * Grasped preliminary hardware-level concepts that underpin system and endpoint security.
