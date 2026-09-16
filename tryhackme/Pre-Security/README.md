@@ -13,3 +13,11 @@
   * Reviewed the main hardware components, including the role of the CPU, RAM, and storage systems in data processing.
   * Examined the basic structure of operating systems and how software interacts with system hardware.
   * Grasped preliminary hardware-level concepts that underpin system and endpoint security.
+ 
+## 3. Operating Systems Basics
+* **Status:** Completed (16 September 2026)
+* **Overview:** Explored the core functions of operating systems and how they manage hardware resources, processes, and user interactions across different platforms.
+* **Key Takeaways:**
+  * Reviewed the role of the kernel in mediating between hardware and software, along with core OS responsibilities (process management, memory management, file systems).
+  * Compared major operating system families (Windows, macOS, Linux) and their relevance to different security contexts.
+  * Built a clearer picture of how OS-level knowledge underpins system hardening, privilege management, and endpoint security work.
