@@ -21,3 +21,11 @@
   * Reviewed the role of the kernel in mediating between hardware and software, along with core OS responsibilities (process management, memory management, file systems).
   * Compared major operating system families (Windows, macOS, Linux) and their relevance to different security contexts.
   * Built a clearer picture of how OS-level knowledge underpins system hardening, privilege management, and endpoint security work.
+
+## 4. Software Basics
+* **Status:** Completed (18 September 2026)
+* **Overview:** Explored the fundamentals of software structure, data representation and encoding, basic scripting in Python and JavaScript, and database management with SQL.
+* **Key Takeaways:**
+  * Learned how computers store and process information through data representation and encoding standards (ASCII, Unicode, UTF-8).
+  * Practiced basic programming logic and syntax using Python and JavaScript to understand application execution flow.
+  * Grasped the core principles of relational databases, structured data storage, and executing foundational SQL queries.
