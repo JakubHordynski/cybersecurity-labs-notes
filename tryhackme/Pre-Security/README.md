@@ -31,7 +31,7 @@
   * Grasped the core principles of relational databases, structured data storage, and executing foundational SQL queries.
   
 ## 5. Network Fundamentals
-* **Status:** Completed (September 2026)
+* **Status:** Completed (24 September 2026)
 * **Overview:** Covered the foundational concepts of computer networking, including how devices communicate, address one another, and exchange data across local and wide-area networks.
 * **Key Takeaways:**
   * Reviewed the OSI model and how it maps to real-world data transmission, from physical signals to application-layer protocols.
