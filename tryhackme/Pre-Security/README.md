@@ -29,3 +29,12 @@
   * Learned how computers store and process information through data representation and encoding standards (ASCII, Unicode, UTF-8).
   * Practiced basic programming logic and syntax using Python and JavaScript to understand application execution flow.
   * Grasped the core principles of relational databases, structured data storage, and executing foundational SQL queries.
+  
+## 5. Network Fundamentals
+* **Status:** Completed (September 2026)
+* **Overview:** Covered the foundational concepts of computer networking, including how devices communicate, address one another, and exchange data across local and wide-area networks.
+* **Key Takeaways:**
+  * Reviewed the OSI model and how it maps to real-world data transmission, from physical signals to application-layer protocols.
+  * Explored the TCP/IP stack, including how IP addressing, subnetting, and routing enable devices to locate and reach each other.
+  * Examined core protocols (DNS, DHCP) and their role in translating human-readable addresses and automating network configuration.
+  * Practiced basic packet-level thinking, building the groundwork needed for later modules on network security and traffic analysis.
