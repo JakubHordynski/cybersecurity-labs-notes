@@ -55,4 +55,20 @@
   * Reviewed common attack types (e.g. phishing, malware, brute-force, and social engineering) and the vulnerabilities they typically exploit.
   * Explored foundational defensive concepts, including the principle of defense in depth and basic hardening practices.
   * Connected attacker techniques to defender countermeasures, reinforcing the "attack vs. defense" mindset central to security operations.
+ 
+ ## Learning Path Completion: Pre-Security
+
+* **Status:** 100% Completed (25 September 2026)
+* **Platform:** TryHackMe
+* **Credential:** Pre-Security Learning Path Completion
+
+### Overview & Milestones
+Successfully completed all seven modules of the TryHackMe Pre-Security track. This milestone consolidates the foundational technical knowledge required for specialized cybersecurity domains, bridging hardware behavior, operating system administration, network communication, web protocols, and modern threat concepts.
+
+### Consolidated Competencies
+* **Computer & OS Architecture:** Understood hardware-level interactions (CPU, RAM, secondary storage) and operating system internals across Linux and Windows, focusing on process isolation, memory handling, and file system structures.
+* **Network Infrastructure & Protocols:** Mastered layer-by-layer communication across the OSI model and TCP/IP stack, including packet handling, IPv4 addressing, DNS resolution, DHCP workflow, and routing fundamentals.
+* **Web Mechanics & Application Surface:** Analyzed the client-server paradigm, HTTP/HTTPS request-response cycles, header structures, state tracking through cookies/sessions, and standard web attack surfaces.
+* **Core Security Principles:** Established foundational offensive and defensive paradigms around the CIA Triad, defense-in-depth architecture, threat categorization, and initial vulnerability management.
+
 
