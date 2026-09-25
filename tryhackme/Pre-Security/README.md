@@ -38,3 +38,21 @@
   * Explored the TCP/IP stack, including how IP addressing, subnetting, and routing enable devices to locate and reach each other.
   * Examined core protocols (DNS, DHCP) and their role in translating human-readable addresses and automating network configuration.
   * Practiced basic packet-level thinking, building the groundwork needed for later modules on network security and traffic analysis.
+ 
+ ## 6. How The Web Works
+* **Status:** Completed (25 September 2026)
+* **Overview:** Covered how the web functions end to end, from a user typing a URL to a server returning content, including the protocols and infrastructure that make this possible.
+* **Key Takeaways:**
+  * Reviewed the client-server model and the role of HTTP/HTTPS requests and responses in web communication.
+  * Explored how DNS resolution, web servers, and browsers work together to load a webpage.
+  * Understood the basics of cookies, sessions, and how state is maintained across an inherently stateless protocol (HTTP).
+  * Built a clearer picture of the web's attack surface, laying the groundwork for the security-focused modules that follow.
+
+## 7. Attacks and Defenses
+* **Status:** Completed (25 September 2026)
+* **Overview:** Introduced common categories of cyberattacks and the corresponding defensive measures used to prevent, detect, and respond to them.
+* **Key Takeaways:**
+  * Reviewed common attack types (e.g. phishing, malware, brute-force, and social engineering) and the vulnerabilities they typically exploit.
+  * Explored foundational defensive concepts, including the principle of defense in depth and basic hardening practices.
+  * Connected attacker techniques to defender countermeasures, reinforcing the "attack vs. defense" mindset central to security operations.
+
