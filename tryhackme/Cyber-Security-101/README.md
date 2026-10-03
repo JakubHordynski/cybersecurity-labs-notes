@@ -14,3 +14,22 @@
   * Completed Linux Fundamentals Part 2, learning to log in to a Linux machine via SSH, along with more advanced commands and file system interaction.
   * Completed Linux Fundamentals Part 3, working hands-on with common Linux utilities used day-to-day in real environments.
   * Built a solid working comfort with Linux — not just as a tool to run security software, but as an operating system to understand and eventually exploit.
+
+## 3. Windows and AD Fundamentals
+* **Status:** Completed (2 October 2026)
+* **Overview:** Hands-on introduction to the Windows operating system and its security controls, covering identification, exploitation, and defense basics, along with an introduction to Active Directory (AD).
+* **Key Takeaways:**
+  * Completed Windows Fundamentals 1, covering the Windows desktop, the NTFS file system, User Account Control (UAC), and the Control Panel.
+  * Completed Windows Fundamentals 2, going deeper into System Configuration, UAC settings, resource monitoring, and the Windows Registry.
+  * Completed Windows Fundamentals 3, exploring built-in Microsoft security tools such as Windows Updates, Windows Security, and BitLocker.
+  * Completed Active Directory Basics, learning the core concepts and functionality that Active Directory provides in enterprise environments.
+  * Gained practical comfort with both standalone Windows systems and the directory services (AD) that manage them at scale.
+
+## 4. Command Line
+* **Status:** Completed (3 October 2026)
+* **Overview:** Practical introduction to command-line interfaces across both major operating systems — PowerShell and the Windows command line, and Bash in Linux — essential for scripting, automation, and many security tools.
+* **Key Takeaways:**
+  * Completed Windows Command Line, practicing essential native Windows commands.
+  * Completed Windows PowerShell, learning the basics of PowerShell as a more powerful scripting and administration tool.
+  * Completed Linux Shells, exploring scripting fundamentals and the different types of shells available in Linux.
+  * Built cross-platform CLI comfort, a core requirement for configuring security tools, automating tasks, and carrying out penetration testing or incident analysis.
